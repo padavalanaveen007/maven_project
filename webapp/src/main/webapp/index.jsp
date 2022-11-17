@@ -12,7 +12,7 @@
     <div class="grid-2">
         <div class="section-1">
             <i class="fas fa-code fa-5x white"></i>
-            <h2>firstname lastname</h2>
+            <h2>NAVEEN KUMAR PADAVALA</h2>
             <p>India</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
@@ -20,9 +20,9 @@
         </div>
         <div class="section-2">
             <h2>About</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quas sint et nihil iusto eius nostrum sit error, repellat optio quisquam! Magnam dolore iusto cumque. Nostrum error iste neque maiores.</p>
+            <p>I am Naveen Kumar padavala and i was studies btech graduation and current working as a software employee at Infosys.</p>
             <h2>Experience</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem.</p>
+            <p>I have a 2 years of experiance as DevOps engineer.</p>
 
             <h2>Skills</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem obcaecati excepturi! Cupiditate eaque itaque magni voluptatibus neque nobis est dolor? Atque sunt minus ipsa asperiores. At.</p>
