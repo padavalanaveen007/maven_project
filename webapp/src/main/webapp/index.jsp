@@ -20,12 +20,12 @@
         </div>
         <div class="section-2">
             <h2>About</h2>
-            <p>I am Naveen Kumar padavala and i was studies btech graduation and current working as a software employee at Infosys.</p>
+            <p>I am Naveen Kumar padavala and i was studied btech graduation and current working as a software employee at Infosys.</p>
             <h2>Experience</h2>
             <p>I have a 2 years of experiance as DevOps engineer.</p>
 
             <h2>Skills</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem obcaecati excepturi! Cupiditate eaque itaque magni voluptatibus neque nobis est dolor? Atque sunt minus ipsa asperiores. At.</p>
+            <p>Best learning skills and teamplayer. At.</p>
             <h2>Projects</h2>
             <a href="#">Project 1</a>
             <a href="#">Project 2</a>
