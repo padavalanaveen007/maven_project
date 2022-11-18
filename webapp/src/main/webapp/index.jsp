@@ -25,7 +25,8 @@
             <p>I have a 2 years of experiance as DevOps engineer.</p>
 
             <h2>Skills</h2>
-            <p>Best learning skills and teamplayer. At.</p>
+            <p>Best learning skills and teamplayer.
+                I am intrested to play cricket.</p>
             <h2>Projects</h2>
             <a href="#">Project 1</a>
             <a href="#">Project 2</a>
